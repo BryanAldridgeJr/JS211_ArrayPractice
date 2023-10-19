@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    padding: 10% 10% 10% 10%;
+    background-color: rgba(255, 255, 255, 0.692);
+    margin: 10% 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}    
+
+html {
+    background-color: rgb(36, 36, 143);
+}
+
+h1 {
+    font-size: 35pt;
+}
+
+button,
+input[type=submit] {
+  background-color: #080808;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#display-element {
+    font-size: 25pt;
+    text-decoration: underline;
+}
+
+
