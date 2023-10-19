@@ -76,6 +76,4 @@ console.log(`Unshift: ${unshift1} `);
 
 // 14. .forEach()
 
-//const foreach1 = cars.forEach();
-//console.log(`Foreach: ${foreach1} `);
 cars.forEach((element) => console.log(` ForEach: ${element}`));
